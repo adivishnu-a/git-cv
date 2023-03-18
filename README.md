@@ -1,5 +1,5 @@
 # Adi Vishnu Avula
-### CSE UNDERGRAD AT SRM UNIVERSITY, AP 
+#### CSE UNDERGRAD AT SRM UNIVERSITY, AP 
 
 **E-mail** [adivishnu_avula@srmap.edu.in](mailto:adivishnu_avula@srmap.edu.in)
 
