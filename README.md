@@ -30,7 +30,7 @@ Seeking an internship opportunity in a dynamic organization where I can utilize 
 
 #### SRM University, AP  - 2021-2025
 - Bachelor of Technology (B.Tech) | Computer Science and Engineering
-- Currently in second year of study, with 9.52 CGPA
+- Currently in second year of study, with **9.52 CGPA**
 - NextTech Lab Associate
 
 #### Sri Chaitanya Junior College - 2019-2021
