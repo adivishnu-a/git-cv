@@ -29,17 +29,17 @@ Seeking an internship opportunity in a dynamic organization where I can utilize 
 ## EDUCATION
 
 #### SRM University, AP  - 2021-2025
-- Bachelor of Technology (B.Tech) | Computer Science and Engineering
+Bachelor of Technology (B.Tech) | Computer Science and Engineering
 - Currently in second year of study, with **9.52 CGPA**
 - NextTech Lab Associate
 
 #### Sri Chaitanya Junior College - 2019-2021
-- Higher Secondary Certificate (Intermediate)
+Higher Secondary Certificate (Intermediate)
 - Graduated with a grade of 96% in the Higher Secondary Examination conducted by the Andhra Pradesh board of Intermediate Education(APBIE)
 
 
 #### Little Flower English Medium School  - 2015-2019
-- ICSE Secondary School Certificate (Class 10)
+ICSE Secondary School Certificate (Class 10)
 - Graduated with a grade of 96% in the ICSE Class 10 Exam
 
 ## ACHIEVEMENTS
