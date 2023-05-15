@@ -62,19 +62,22 @@ ICSE Secondary School Certificate (Class 10)
 
 ## PROJECTS
 #### [**Virtual Voice Assistant**](https://github.com/adivishnu-a/Voice-Assistant) | Python
-This program, once started, takes continuous voice inputs from the user and performs a wide variety of tasks in the user’s PC totally handsfree, until the user asks the program to `stop`
+Takes continuous voice inputs from the user and performs a wide variety of tasks in the user’s PC totally handsfree, until the user asks the program to `stop`
 
 #### [**iCho**](https://github.com/adivishnu-a/icho) | Python
-Immersive Head Tracking Audio Experience, a volume adjustment assistant that adapts to your every move using facial recognition using Machine Learning.
+Immersive Head Tracking Audio Experience, a volume adjustment assistant that adapts to your every move using Computer Vision.
+
+#### [**ExamSystem**](https://github.com/adivishnu-a/ExamSystem) | Java
+A Java-based application that allows students to take exams and track their performance, and administrator to manage tests and view the leaderboard.
 
 #### [**Grocery Store Management System**](https://github.com/adivishnu-a/Grocery-Store-Management-System) | C++
 An inventory management application for a grocery store that can store various products and employee details, and automatically calculates the profits, employee salaries and sales revenue and stores them in the file system
 
 #### [**Hospital Management System**](https://github.com/adivishnu-a/Hospital-Management-System) | C
-This application can add, view, edit and search various patient records, and data can be stored locally for a very long time. This application also calculates the patient bills, and keeps track of the doctors available in the hospital
+Application to add, view, edit and search various patient records, and data can be stored locally for a very long time. This application also calculates the patient bills, and keeps track of the doctors available in the hospital
 
 #### [**Cellular Payments Prototype**](https://github.com/adivishnu-a/HaRBInger21) | Python - For RBI Harbinger’21
-Cellular Payment system implements a call-bot that guides the users through the payment process and processes a transaction. This is a prototype showcasing the tasks that will be happening in the backend.
+Demo Prototype implementation of a call-bot that guides the users through the payment process and processes a transaction
 
 ---
 
