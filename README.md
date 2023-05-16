@@ -2,6 +2,7 @@
 #### CSE UNDERGRAD AT SRM UNIVERSITY, AP 
 
 **E-mail**: [adivishnu_avula@srmap.edu.in](mailto:adivishnu_avula@srmap.edu.in)
+
 **LinkedIn**: [https://www.linkedin.com/in/adi-vishnu-avula/](https://www.linkedin.com/in/adi-vishnu-avula/)
 
 ## PROJECTS
@@ -35,19 +36,19 @@
 
 ## EDUCATION
 
-#### SRM University, AP  - 2021-2025
-Bachelor of Technology (B.Tech) | Computer Science and Engineering
-- Currently in second year of study, with **9.52 CGPA**
-- Associate at NextTech Lab, SRM AP
+- SRM University, AP  - 2021-2025
+  - Bachelor of Technology (B.Tech) | Computer Science and Engineering
+  - Currently in second year of study, with **9.52 CGPA**
+  - Associate at NextTech Lab, SRM AP
 
-#### Sri Chaitanya Junior College - 2019-2021
-Higher Secondary Certificate (Intermediate)
-- Graduated with a grade of 96% in the Higher Secondary Examination conducted by the Andhra Pradesh board of Intermediate Education(APBIE)
+- Sri Chaitanya Junior College - 2019-2021
+  - Higher Secondary Certificate (Intermediate)
+  - Graduated with a grade of 96% in the Higher Secondary Examination conducted by the Andhra Pradesh board of Intermediate Education(APBIE)
 
 
-#### Little Flower English Medium School  - 2015-2019
-ICSE Secondary School Certificate (Class 10)
-- Graduated with a grade of 96% in the ICSE Class 10 Exam
+- Little Flower English Medium School  - 2015-2019
+  - ICSE Secondary School Certificate (Class 10)
+  - Graduated with a grade of 96% in the ICSE Class 10 Exam
 
 ## ACHIEVEMENTS
 ### Certifications 
