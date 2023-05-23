@@ -22,6 +22,10 @@
   - Application for managing a grocery store's inventory, calculating costs, profits, and salaries.
   - Developed in C++
 
+- [**Virtual Memory Manager**](https://github.com/adivishnu-a/Virtual-Memory-Manager)
+  - A Virtual memory management simulation, based on standard operating system principles.
+  - Developed in C++
+
 - [**Hospital Management System**](https://github.com/adivishnu-a/Hospital-Management-System)
   - Tool to manage hospital records and information, to add, view, search, edit, and delete patient records and for managing staff information and calculating expenses.
   - Developed in C
