@@ -70,4 +70,5 @@
 
 ---
 
-[PDF Version of this resume](https://github.com/adivishnu-a/git-cv/files/11008311/Adi_Vishnu_Avula___Resume.pdf)
+[PDF Version of this resume](https://github.com/adivishnu-a/git-cv/files/11544676/Adi.Vishnu.Avula.-.Resume.pdf)
+
