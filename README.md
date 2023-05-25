@@ -7,7 +7,7 @@
 
 ## PROJECTS
 - [**Virtual Voice Assistant**](https://github.com/adivishnu-a/Voice-Assistant)
-  - Takes continuous voice inputs from the user and performs a wide variety of tasks in the user’s PC totally handsfree, until the user asks the program to `stop`
+  - Takes continuous voice inputs from the user and performs a wide variety of tasks in the user’s PC totally handsfree, until the user asks the program to "stop"
   - Developed in Python
 
 - [**iCho**](https://github.com/adivishnu-a/icho)
