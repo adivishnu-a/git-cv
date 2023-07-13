@@ -27,7 +27,7 @@
   - Developed in C++
 
 - [**Hospital Management System**](https://github.com/adivishnu-a/Hospital-Management-System)
-  - Tool to manage hospital records and information, to add, view, search, edit, and delete patient records and for managing staff information and calculating expenses.
+  - Tool to manage hospital records and information, to add, view, search, edit, and delete patient records, and for managing staff information and calculating expenses.
   - Developed in C
 
 ## SKILLS
@@ -42,13 +42,12 @@
 
 - SRM University, AP  - 2021-2025
   - Bachelor of Technology (B.Tech) | Computer Science and Engineering
-  - Currently in second year of study, with **9.52 CGPA**
+  - Currently in the third year of study, with **9.40 CGPA**
   - Associate at NextTech Lab, SRM AP
 
 - Sri Chaitanya Junior College - 2019-2021
   - Higher Secondary Certificate (Intermediate)
   - Graduated with a grade of 96% in the Higher Secondary Examination conducted by the Andhra Pradesh board of Intermediate Education(APBIE)
-
 
 - Little Flower English Medium School  - 2015-2019
   - ICSE Secondary School Certificate (Class 10)
@@ -57,6 +56,7 @@
 ## ACHIEVEMENTS
 ### Certifications 
 - [**PCEP-30-02 – Certified Entry-Level Python Programmer** - OpenEDG Python Institute](https://verify.openedg.org/?id=eX2N.0UOP.CyXV)
+- [**PCAP-31-03 – Certified Associate in Python Programming** - OpenEDG Python Institute](https://verify.openedg.org/?id=8pCU.rLFC.JX4h)
 - [**Elements of AI: Introduction to AI** - MinnaLearn](https://certificates.mooc.fi/validate/ue79nyk2jnh)
 - [**The Complete Python Bootcamp** - Udemy](https://www.udemy.com/certificate/UC-5a3b3d3d-0cf2-4a5a-8ebd-5956d0f5ea67/)
 - [**Programming in C Certification** - Udemy](https://www.udemy.com/certificate/UC-0e344dcb-cc70-42bc-9a4a-a056c56b8bf8/)
@@ -70,5 +70,5 @@
 
 ---
 
-[PDF Version of this resume](https://github.com/adivishnu-a/git-cv/files/11544676/Adi.Vishnu.Avula.-.Resume.pdf)
+[PDF Version of this resume](https://drive.google.com/file/d/1T47q5GcgJC6CYDFqsaWvZwmlrN3ewccP/view?usp=sharing)
 
