@@ -33,8 +33,8 @@
 ## SKILLS
 
 - **Programming Languages**: Python, C, C++, Java
-- **Concepts**: Data Structures and Algorithms, Object Oriented Programming
-- **Tools**: Git, Github, VS Code, IntelliJ
+- **Concepts**: Data Structures and Algorithms, Object Oriented Programming, Database Management, Data Warehousing and Mining
+- **Tools**: Git, Github, VS Code, MySQL, IntelliJ
 - **Non-Technical**: Interpersonal Communication, Problem Solving, Presentations, Project Management
 - **Spoken Languages**: English, Telugu, Hindi
 
@@ -70,5 +70,5 @@
 
 ---
 
-[PDF Version of this resume](https://drive.google.com/file/d/1T47q5GcgJC6CYDFqsaWvZwmlrN3ewccP/view?usp=sharing)
+[PDF Version of this resume](https://drive.google.com/file/d/10SwPY6lw-V5OTN9wr7DjLdSQ3JQZxZ1T/view?usp=sharing)
 
