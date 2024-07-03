@@ -42,8 +42,9 @@
 
 - SRM University, AP  - 2021-2025
   - Bachelor of Technology (B.Tech) | Computer Science and Engineering
-  - Currently in the third year of study, with **9.40 CGPA**
+  - Currently in the final year of study, with **9.41 CGPA**
   - Associate at NextTech Lab, SRM AP
+  - Member of Student Council, Public Relations Wing
 
 - Sri Chaitanya Junior College - 2019-2021
   - Higher Secondary Certificate (Intermediate)
